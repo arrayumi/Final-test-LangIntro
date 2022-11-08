@@ -10,8 +10,8 @@ void PrintArray(string[] array)
     Console.WriteLine("]");
 }
 
-//метод для превращения имеющегося массива в новый, каждый элемент которого состоит из <=3 символов
-string[] ArrayThreeSymbols(string[] array)
+//метод для превращения имеющегося массива в новый, каждый элемент которого состоит из <=[заданное число] символов
+string[] ArrayNewStringsSize(string[] array, int stringSize)
 {
     int newLength = default;   // вычисляем длину нового массива
     for (int i = 0; i < array.Length; i++)
@@ -24,7 +24,7 @@ string[] ArrayThreeSymbols(string[] array)
     int j = 0;                              //объявляем счетчик для элементов нового массива
     for (int i = 0; i < array.Length; i++) //проходим по первому массиву и вписываем нужные элементы в новый
     {
-        if (array[i].Length < 4) { newArray[j] = array[i]; j++; }
+        if (array[i].Length <= stringSize) { newArray[j] = array[i]; j++; }
     }
     return newArray;
 }
@@ -44,5 +44,5 @@ for (int i = 0; i < arrSize; i++)
 PrintArray(arr);
 
 //трансформируем его с помощью метода в новый массив, печатаем
-string[] newArr = (ArrayThreeSymbols(arr));
+string[] newArr = (ArrayNewStringsSize(arr, 3));
 PrintArray(newArr);
