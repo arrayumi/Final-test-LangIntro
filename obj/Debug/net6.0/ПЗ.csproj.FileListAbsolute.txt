@@ -1,0 +1,15 @@
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\ПЗ.csproj.AssemblyReference.cache
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\ПЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\ПЗ.AssemblyInfoInputs.cache
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\ПЗ.AssemblyInfo.cs
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\ПЗ.csproj.CoreCompileInputs.cache
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\bin\Debug\net6.0\ПЗ.exe
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\bin\Debug\net6.0\ПЗ.deps.json
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\bin\Debug\net6.0\ПЗ.runtimeconfig.json
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\bin\Debug\net6.0\ПЗ.dll
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\bin\Debug\net6.0\ПЗ.pdb
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\ПЗ.dll
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\refint\ПЗ.dll
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\ПЗ.pdb
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\ПЗ.genruntimeconfig.cache
+C:\Users\thori\OneDrive\Рабочий стол\Практическое задание\ПЗ\obj\Debug\net6.0\ref\ПЗ.dll
